@@ -1,4 +1,4 @@
-cho "# hello-world" >> README.md
+cho "# hello-world-welcome-to-my-firt-code" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
